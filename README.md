@@ -1,7 +1,7 @@
 # MessageBlock!
 A small messaging test using blockchain
 
-Aim of this repo is to test the usability of blockchain tech for an email like system (End goal is to have a whatsapp style messenger using Private keys to access your messages.
+Aim of this repo is to test the usability of blockchain tech for an email like system (End goal is to have a whatsapp style messenger using Private keys to access your messages.)
 
 ## Get Started
 1. Get my head around blockchain in Python
